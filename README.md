@@ -45,15 +45,25 @@ bed_and_breakfast_urls.xlsx: Intermediate URL list
 
 ## 📊 Data Fields Extracted
 Field	Example	Description
+
 Hotle Name	"River View B&B"	Property name
+
 Type	"Bed and Breakfast"	Property type
+
 Rooms	"5 rooms"	Room count
+
 Area	"Amsterdam West"	Local area
+
 City	"Amsterdam"	City name
+
 Country	"Netherlands"	Country
+
 Address	"123 Canal St..."	Full address
+
 Activities	"Cycling, Museum tours"	Offered activities
+
 Phone Number	"+31 20 123 4567"	Contact phone
+
 Website	"https://example.com"	Property website
 
 
